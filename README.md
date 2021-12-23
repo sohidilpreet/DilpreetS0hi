@@ -6,7 +6,7 @@
 
 ## 📞 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-dilpreetsohi-Blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilpreet-sohi-5b2ab7182)](https://www.linkedin.com/in/dilpreet-sohi-5b2ab7182)
+[![Linkedin Badge](https://img.shields.io/badge/-dilpreetsohi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilpreet-sohi-5b2ab7182)](https://www.linkedin.com/in/dilpreet-sohi-5b2ab7182)
 [![Gmail Badge](https://img.shields.io/badge/-sohidilpreet1999@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohidilpreet1999@gmail.com)](mailto:sohidilpreet1999@gmail.com)
 
 
